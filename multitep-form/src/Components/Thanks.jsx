@@ -27,11 +27,10 @@ const Thanks = () => {
       </h3>
       <p className="review-data">
         <span>Satisfação com o produto:</span>
-        <p className="review-data">
-          <span>Comentário:</span>
-          
-        </p>
-      </p>
+     </p>
+      <p className="review-data">
+        <span>Comentário:</span>
+    </p>
     </div>
   )
 }
