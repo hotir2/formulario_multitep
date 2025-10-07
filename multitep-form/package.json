@@ -2,7 +2,7 @@
   "name": "multitep-form",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/hotir2/formulario_multitep",
+  "homepage": "https://hotir2.github.io/formulario_multitep",
   "type": "module",
   "scripts": {
     "dev": "vite",
